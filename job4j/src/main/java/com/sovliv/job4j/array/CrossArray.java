@@ -12,7 +12,7 @@ public class CrossArray {
             for (int j = 0; j < right.length - 1; j++) {
                 if(left[i] != right[position]) {
                     position++;
-
+//test
                 }
             }
         }
